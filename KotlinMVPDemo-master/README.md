@@ -4,5 +4,5 @@
 博客介绍：[ Kotlin Android Extensions+Android MVP项目(RxJava+Rerotfit+OkHttp+Glide)](http://blog.csdn.net/m0_37971088)
 
 效果图：
-
+![img]
 (http://img.blog.csdn.net/20170628162541988?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbTBfMzc5NzEwODg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
